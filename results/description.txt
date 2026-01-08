@@ -1,0 +1,8 @@
+Jakub Oganowski, Hubert Jaczynski
+https://github.com/OganKuba/P10-Social
+D1-K=2.csv, 0.013133
+D1-UNC.csv, 0.026176
+D2-K=7.csv, 0.026052
+D2-UNC.csv, 0.033036
+D3-K=12.csv, 0.057508
+D3-UNC.csv, 0.019245
